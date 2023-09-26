@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "expo eject",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^10.2.0",
+    "@react-native-community/masked-view": "0.1.5",
+    "@react-navigation/bottom-tabs": "^5.4.7",
+    "@react-navigation/native": "^5.4.2",
+    "@react-navigation/stack": "^5.3.9",
+    "@reduxjs/toolkit": "^1.3.6",
+    "add": "^2.0.6",
+    "axios": "^0.19.2",
+    "expo": "~36.0.0",
+    "expo-asset": "8.0.0",
+    "expo-blur": "~8.0.0",
+    "expo-font": "~8.0.0",
+    "prop-types": "^15.7.2",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-maps": "0.26.1",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-safe-area-context": "0.6.0",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-web": "~0.11.7",
+    "react-native-web-swiper": "^2.1.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-persist": "^6.0.0",
+    "styled-components": "^5.0.1",
+    "yarn": "^1.22.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "@babel/core": "^7.9.6",
+    "babel-preset-expo": "~8.0.0"
+  },
+  "private": true,
+  "name": "c5wt76",
+  "description": null,
+  "version": "0.0.0"
+}
